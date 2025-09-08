@@ -1,0 +1,41 @@
+body {
+  background-color: #cce6ff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+.first-block img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.second-block {
+  display: flex;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.second-block img {
+  max-width: 300px;
+  height: auto;
+}
+
+.attractions-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.attractions-block img {
+  max-width: 300px;
+  height: auto;
+}
