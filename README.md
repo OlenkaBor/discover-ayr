@@ -11,7 +11,7 @@ The website includes:
 
 ## Live Demo
 You can view the site here:  
-👉 [Ayr Website on GitHub Pages](https://your-username.github.io/your-repo-name)
+👉 [Ayr Website on GitHub Pages](https://olenkabor.github.io/discover-ayr/)
 
 ## Purpose
 - Practising GitHub basics: repository, commits, and GitHub Pages  
